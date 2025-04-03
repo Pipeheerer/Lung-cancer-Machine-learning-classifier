@@ -1,0 +1,16 @@
+<!-- templates/predict.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lung Cancer CT Prediction</title>
+</head>
+<body>
+  <h1>Lung Cancer CT Prediction</h1>
+  <form method="POST" action="{% url 'predict_lung_cancer_ct' %}">
+    {% csrf_token %}
+    <label for="image_url">Image URL:</label>
+    <input type="text" name="image_url" id="image_url" required>
+    <button type="submit">Predict</button>
+  </form>
+</body>
+</html>
