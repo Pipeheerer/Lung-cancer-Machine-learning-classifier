@@ -224,10 +224,6 @@ curl -X POST -F "file=@/path/to/data.xlsx" http://127.0.0.1:8000/api/predict/num
 
 ---
 
-## **Contributors**  
-👨‍💻 **Emmanuel Arokiaraj** (Jehr Tech Solutions)  
+ 
 
----
 
-## **License**  
-📜 MIT License  
