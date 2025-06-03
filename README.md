@@ -1,4 +1,5 @@
 # **AI-Powered Medical Diagnosis Platform**  
+![Uploading image.png…]()
 
 ## **Overview**  
 This project is an AI-powered medical diagnosis platform that integrates deep learning and machine learning models for detecting diseases based on:  
