@@ -8,7 +8,7 @@
 
 ## **Overview**  
 This project is an AI-powered medical diagnosis platform that integrates deep learning and machine learning models for detecting diseases based on:  
-- **COVID-19 Image Detection** (CNN)  
+  
 - **Lung Cancer Image Detection** (CNN)  
 - **Excel-Based Numerical Data Detection** (Ensemble Learning)  
 
@@ -18,7 +18,7 @@ It is a full-stack Django backend application with a PostgreSQL database, deploy
 
 ## **Features**  
 ### **Machine Learning & Deep Learning Models**  
-✔ **CNN for Image-Based Classification** (COVID-19 & Lung Cancer detection)  
+✔ **CNN for Image-Based Classification** Lung Cancer detection)  
 ✔ **Ensemble Learning for Tabular Data (Numerical Data Detection)**  
 ✔ **Pytorch-based Model Training & Deployment**  
 
