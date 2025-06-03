@@ -218,11 +218,6 @@ curl -X POST -F "file=@/path/to/data.xlsx" http://127.0.0.1:8000/api/predict/num
 
 ---
 
-## **Monitoring & Logging**  
-✔ **Prometheus & Grafana** for real-time monitoring  
-✔ **Logstash & Kibana** for error tracking  
-
----
 
  
 
