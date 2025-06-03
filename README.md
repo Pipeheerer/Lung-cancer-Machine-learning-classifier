@@ -1,5 +1,9 @@
 # **AI-Powered Medical Diagnosis Platform**  
 ![Screenshot 2025-06-03 at 20 12 11](https://github.com/user-attachments/assets/f090453e-63a6-46e9-b05e-4e806e9a7908)
+![Screenshot 2025-06-03 at 20 12 02](https://github.com/user-attachments/assets/e6451d08-0a72-4527-be61-ae3b71ef66d3)
+![Screenshot 2025-06-03 at 20 10 47](https://github.com/user-attachments/assets/a1de177b-70ea-4d57-9328-7d6e00f102ce)
+
+
 
 
 ## **Overview**  
